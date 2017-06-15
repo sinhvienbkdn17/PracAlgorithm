@@ -1,0 +1,6 @@
+D:\Algorithm\PracAlgorithm\Ex95\Ex95\bin\Debug\Ex95.exe.config
+D:\Algorithm\PracAlgorithm\Ex95\Ex95\bin\Debug\Ex95.exe
+D:\Algorithm\PracAlgorithm\Ex95\Ex95\bin\Debug\Ex95.pdb
+D:\Algorithm\PracAlgorithm\Ex95\Ex95\obj\Debug\Ex95.csprojResolveAssemblyReference.cache
+D:\Algorithm\PracAlgorithm\Ex95\Ex95\obj\Debug\Ex95.exe
+D:\Algorithm\PracAlgorithm\Ex95\Ex95\obj\Debug\Ex95.pdb
